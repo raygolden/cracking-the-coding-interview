@@ -23,3 +23,8 @@ create another user named ray, git clone
 
 
 create new branch feature_003
+<<<<<<< HEAD
+=======
+
+test it on rmbp
+>>>>>>> feature_002
