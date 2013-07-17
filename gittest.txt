@@ -7,3 +7,11 @@ for git branch test, create another dir, run : git clone -b feature_001 git@gith
 
 
 create an new branch by : git checkout -b feature_002 feature_001, then git push git push git@github.com:raygolden/cracking-the-coding-interview.git feature_002:feature_002
+
+
+try to merge branch:
+    git remote add colleague01 git@github.com:raygolden/cracking-the-coding    -interview.git
+    git fetch colleague01
+    git checkout -b feature_002 colleague01/feature_002
+    modify
+    git add , git commit:
