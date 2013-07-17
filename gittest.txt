@@ -4,3 +4,6 @@ git push git@github.com:raygolden/cracking-the-coding-interview.git feature_001:
 
 
 for git branch test, create another dir, run : git clone -b feature_001 git@github.com:raygolden/cracking-the-coding-interview.git to work on this feature
+
+
+create an new branch by : git checkout -b feature_002 feature_001, then git push git push git@github.com:raygolden/cracking-the-coding-interview.git feature_002:feature_002
