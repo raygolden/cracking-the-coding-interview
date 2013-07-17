@@ -15,3 +15,8 @@ try to merge branch:
     git checkout -b feature_002 colleague01/feature_002
     modify
     git add , git commit:
+
+create another user named ray, git clone 
+	then git config user.name "Ray.Huang"
+	git checkout -b feature_002 origin/feature_002
+	modify :git add, git commit. git checkout master, git merge feature_002
